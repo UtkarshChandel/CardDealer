@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CardDealer/static/css/main.2d23a6d4.chunk.css",
+    "main.js": "/CardDealer/static/js/main.593593e5.chunk.js",
+    "main.js.map": "/CardDealer/static/js/main.593593e5.chunk.js.map",
+    "runtime-main.js": "/CardDealer/static/js/runtime-main.72b7a2c1.js",
+    "runtime-main.js.map": "/CardDealer/static/js/runtime-main.72b7a2c1.js.map",
+    "static/js/2.e1dedeaf.chunk.js": "/CardDealer/static/js/2.e1dedeaf.chunk.js",
+    "static/js/2.e1dedeaf.chunk.js.map": "/CardDealer/static/js/2.e1dedeaf.chunk.js.map",
+    "index.html": "/CardDealer/index.html",
+    "precache-manifest.2d4e3265c0071e1c0b72daeb4f7c9e25.js": "/CardDealer/precache-manifest.2d4e3265c0071e1c0b72daeb4f7c9e25.js",
+    "service-worker.js": "/CardDealer/service-worker.js",
+    "static/css/main.2d23a6d4.chunk.css.map": "/CardDealer/static/css/main.2d23a6d4.chunk.css.map",
+    "static/js/2.e1dedeaf.chunk.js.LICENSE.txt": "/CardDealer/static/js/2.e1dedeaf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CardDealer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72b7a2c1.js",
+    "static/js/2.e1dedeaf.chunk.js",
+    "static/css/main.2d23a6d4.chunk.css",
+    "static/js/main.593593e5.chunk.js"
+  ]
+}
