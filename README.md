@@ -1,4 +1,4 @@
-# Card-dealer
+# Card-Dealer
 
 ## Table of Contents
 
@@ -16,8 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Node.js
-Web-Browser
+- Node.js
+- Web-Browser
 
 ### Installing
 
