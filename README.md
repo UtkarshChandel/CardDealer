@@ -1,4 +1,4 @@
-# card-dealer
+# Card-dealer
 
 ## Table of Contents
 
